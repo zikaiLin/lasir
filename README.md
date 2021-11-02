@@ -1,4 +1,4 @@
-# 3lasir
+# lasir
 
 LAtent Subgroup Image-on-scalar Regression (LASIR)
 
@@ -70,8 +70,7 @@ ggplot(data, aes(X, Y, fill= Z2)) +
 
 ```
 
-![image-20211102000636728](/Users/ziklin/Library/Application Support/typora-user-images/image-20211102000636728.png)
-
+![image](https://user-images.githubusercontent.com/63326740/139957295-124c1f98-2ede-4660-980a-b5b25a945bd1.png)
 
 
 Generate covariates:
